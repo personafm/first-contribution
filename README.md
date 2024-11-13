@@ -57,7 +57,7 @@ git switch -c add-alonzo-church
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor, and add your Github username to the end of it, on a new line
+Now open `contributors.md` file in a text editor, and add your Github username to the end of it, on a new line
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
