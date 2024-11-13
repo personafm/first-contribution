@@ -57,7 +57,7 @@ git switch -c add-alonzo-church
 
 ## Make necessary changes and commit those changes
 
-Now open `contributors.md` file in a text editor, and add your Github username to the end of it, on a new line
+Now open `contributors.md` (all lowercase) in a text editor, and add your Github username to the end of it, on a new line.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
@@ -66,7 +66,7 @@ If you go to the project directory and execute the command `git status`, you'll 
 Add those changes to the branch you just created using the `git add` command:
 
 ```bash
-git add Contributors.md
+git add contributors.md
 ```
 
 Now commit those changes using the `git commit` command:
