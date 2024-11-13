@@ -30,7 +30,7 @@ where "url you just copied" (without the quotation marks) is the url to this rep
 For example:
 
 ```bash
-git clone git@github.com:this-is-you/first-contributions.git
+git clone git@github.com:this-is-you/first-contribution.git
 ```
 
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
@@ -40,7 +40,7 @@ where `this-is-you` is your GitHub username. Here you're copying the contents of
 Change to the repository directory on your computer (if you are not already there):
 
 ```bash
-cd first-contributions
+cd first-contribution
 ```
 
 Now create a branch using the `git switch` command:
@@ -113,4 +113,4 @@ Soon I'll be merging all your changes into the main branch of this project. You 
 ## Congrats! 
 You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
 
-This tutorial was adapted from https://github.com/firstcontributions/first-contributions
+This tutorial was adapted from https://github.com/firstcontributions/first-contributions, and shares the same open source license.
