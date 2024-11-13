@@ -110,7 +110,9 @@ Now submit the pull request.
 
 Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
 
-## Congrats! 
-You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
+## What's Next?
+Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
 
-This tutorial was adapted from https://github.com/firstcontributions/first-contributions, and shares the same open source license.
+Now you are ready to find open-source projects to contribute to! A great starting point is persona.fm itself! You can get started [here](https://github.com/personafm)
+
+*This tutorial was adapted from https://github.com/firstcontributions/first-contributions, and shares the same open source license.*
